@@ -17,6 +17,8 @@ runtime! archlinux.vim
 " do not load defaults if ~/.vimrc is missing
 "let skip_defaults_vim=1
 
+" These settings were taken from https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/
+
 " Enable type detection
 filetype on
 
@@ -34,4 +36,3 @@ set number
 
 "Cursor highlighting
 set cursorline
-
