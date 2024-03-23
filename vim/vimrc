@@ -37,6 +37,10 @@ set number
 "Cursor highlighting
 set cursorline
 
+set background=dark
+
+colorscheme molokai_black
+
 " This was taken from https://github.com/junegunn/vim-plug?tab=readme-ov-file#example
 
 call plug#begin('~/.vim/plugged')
